@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :23.12.2025
+# Reg. No. 25016374
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -50,6 +50,29 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
+# SCENARIO 1 : Reproducing a Minimalist Digital Artwork
+
+
+# SCENARIO 2: Reproducing a High-Contrast Street Photography Scene
+
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+Prompt 1: Minimalist Paper and Pen Image
+
+A minimalist digital illustration of a single white sheet of paper placed vertically at the center of the canvas with a sleek black pen resting diagonally on top. Use a light neutral gray background with ample negative space. Flat, uniform lighting with no shadows or depth effects. Clean lines, smooth surfaces, solid colors only, no textures, no gradients. Modern minimalist aesthetic, balanced and symmetrical composition.
+
+<img width="1536" height="1024" alt="pen" src="https://github.com/user-attachments/assets/d995dfd9-9ce9-4783-8d91-7343b91bf359" />
+
+Prompt 2:Detailed Trekking Man Watching Sunrise
+A highly detailed cinematic landscape photograph shows a lone trekking man standing on a rugged red sand mountain ridge, facing a glowing sunrise on the horizon.
+The man is seen from behind wearing trekking gear with a jacket, boots, gloves, and a large backpack, holding trekking poles in the sand.
+Warm golden sunlight illuminates the red sand mountains, revealing wind-carved ridges, fine textures, and natural erosion patterns.
+Sparse desert trees and vegetation appear along the slopes, casting long dramatic shadows across the terrain.
+Birds fly in small flocks against a sky filled with detailed clouds and soft atmospheric haze.
+The scene features a wide-angle perspective, deep depth, ultra-realistic textures, and an epic cinematic mood.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b0c97db7-8ae3-43b1-a40d-f0c65fadd906" />
+
+
+
+

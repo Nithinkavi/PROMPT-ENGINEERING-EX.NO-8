@@ -77,6 +77,7 @@ Birds fly in small flocks against a sky filled with detailed clouds and soft atm
 The scene features a wide-angle perspective, deep depth, ultra-realistic textures, and an epic cinematic mood.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b0c97db7-8ae3-43b1-a40d-f0c65fadd906" />
 
-
+# RESULT:
+The prompt-based image reproduction experiment was executed successfully, and the generated images closely matched the original images using refined prompts.
 
 

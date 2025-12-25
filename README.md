@@ -51,11 +51,15 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 # SCENARIO 1 : Reproducing a Minimalist Digital Artwork
+![1](https://github.com/user-attachments/assets/7499615a-efc7-404c-85de-4923fee73116)
+![2](https://github.com/user-attachments/assets/a0adc7be-80f4-455a-bc90-d893f8ed210b)
 
+![3](https://github.com/user-attachments/assets/a4048b89-dda4-4b1e-9a8e-9ac523ee8d64)
 
 # SCENARIO 2: Reproducing a High-Contrast Street Photography Scene
-
-
+![1](https://github.com/user-attachments/assets/3f9152de-6eb9-4c77-8fa4-7343fe79a059)
+![2](https://github.com/user-attachments/assets/033335b7-a1b2-4b0c-8d43-1fd65d628276)
+![3](https://github.com/user-attachments/assets/47504f0b-a6d0-45b0-b20f-61299e5e0a2b)
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 Prompt 1: Minimalist Paper and Pen Image
